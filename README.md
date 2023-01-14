@@ -1,6 +1,15 @@
-
+# Hi! I am Myla!
   
   <img src="https://i.pinimg.com/originals/8d/44/8f/8d448fb60b393f2ed3c8f4b789abb0e8.jpg" width="7000"/>
+  <a href="https://www.linkedin.com/in/myla-talampas-45aaa0193">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://web.facebook.com/myla.talampas">
+    <img src="https://img.shields.io/badge/Facebook-violet?style=for-the-badge&logo=Facebook&logoColor=white%22%20alt=%22Facebook%20Badge" alt="Facebook Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 
 
 
