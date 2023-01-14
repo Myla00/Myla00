@@ -13,6 +13,9 @@
  <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge" title="Follow me on Reddit"/>
   </a>
+      <a href="https://github.com/Myla00?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Myla00?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&pause=1000&color=F73BD3&width=650&height=80&lines=I+am+a+GitHub+Noob.;I+am+always+up+for+challenges+;and+love+learning+new+things!)](https://git.io/typing-svg)
   
@@ -23,12 +26,7 @@
 <img src="https://media.giphy.com/media/idUegzT60kKzXl7iAq/giphy.gif" width="40"/>![Visitor Count](https://profile-counter.glitch.me/{Myla00}/count.svg)<img src="https://media.giphy.com/media/idUegzT60kKzXl7iAq/giphy.gif" width="40"/>
   <BR>
     
-<p> 
-    <a href="https://github.com/Myla00?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Myla00?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-    
- <br><br>
+
     
   <div id="header" align="center">
 
