@@ -15,11 +15,13 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Myla00?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
     
-  
-  <img src="https://media.giphy.com/media/8pp9vsAc5GYNY0ron0/giphy.gif" width="50"/>
+ <br><br>
     
+  <div id="header" align="center">
+
+  ### Hi! My name is Myla
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=50&pause=1000&color=F73BD3&center=true&vCenter=true&width=650&height=80&lines=Hello%2C+my+name+is+Myla;And+I+am+a+GitHub+Noob.;I+am+always+up+for+challenges+;and+love+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=35&pause=1000&color=F73BD3&center=true&vCenter=true&width=650&height=80&lines=And+I+am+a+GitHub+Noob.;I+am+always+up+for+challenges+;and+love+learning+new+things!)](https://git.io/typing-svg)
     
    
     
@@ -48,7 +50,7 @@
     Sample text
 </details>
   
-  
+   <img src="https://media.giphy.com/media/8pp9vsAc5GYNY0ron0/giphy.gif" width="50"/>
   
  
  
