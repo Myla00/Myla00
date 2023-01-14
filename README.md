@@ -1,4 +1,4 @@
-# Hi! I am Myla! 
+# Hi! I am Myla! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50"/>
   
   <img src="https://i.pinimg.com/originals/8d/44/8f/8d448fb60b393f2ed3c8f4b789abb0e8.jpg" width="7000"/>
   <a href="https://www.linkedin.com/in/myla-talampas-45aaa0193">
