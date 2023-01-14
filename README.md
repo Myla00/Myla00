@@ -19,10 +19,19 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&pause=1000&color=F73BD3&width=650&height=80&lines=I+am+a+GitHub+Noob.;I+am+always+up+for+challenges+;and+love+learning+new+things!)](https://git.io/typing-svg)
   
-## 👩🏻 More About Me
+## 👩🏻 On a More Personal Note!
+<details>
+    <summary><b>🛠️ Hobbies</b></summary><br/>
+Reading is my hobby, my escape into a wonderful world of fiction and imagination.
+<br><br>
+Reading is one of the greatest joys in life. It allows us to forget about our troubles for just a little while, and it can be done anywhere at any time.<br>
+Whether you're reading on your phone or in bed, there's always something interesting happening around you: people talking, cars honking their horns outside your window—or maybe just your own thoughts floating through your head! Reading gives us access to great stories that we might otherwise never experience if we weren't able to read them ourselves (or watch movies based on them).
+<br><br>
+</details>
 
 
 
+<br><br>
 ## 🎧 Spotify Playing
 
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
@@ -47,35 +56,6 @@
   <div id="header" align="center">
 
 
-    
-   
-    
-    
-  <details>
-    <summary><b>✨Reach Me</b></summary><br/>
- 
-    
-<div id="badges">
-  <a href="https://www.linkedin.com/in/myla-talampas-45aaa0193">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://web.facebook.com/myla.talampas">
-    <img src="https://img.shields.io/badge/Facebook-violet?style=for-the-badge&logo=Facebook&logoColor=white%22%20alt=%22Facebook%20Badge" alt="Facebook Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  </div>
-    
-    
-</details>
-
-
-<details>
-    <summary><b>🛠️ Languages & Tools</b></summary><br/>
-    Sample text
-</details>
-  
    <img src="https://media.giphy.com/media/8pp9vsAc5GYNY0ron0/giphy.gif" width="50"/>
   
  
