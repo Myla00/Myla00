@@ -1,4 +1,4 @@
-# Hi! I am Myla!
+# Hi! I am Myla! 
   
   <img src="https://i.pinimg.com/originals/8d/44/8f/8d448fb60b393f2ed3c8f4b789abb0e8.jpg" width="7000"/>
   <a href="https://www.linkedin.com/in/myla-talampas-45aaa0193">
@@ -19,7 +19,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&pause=1000&color=F73BD3&width=650&height=80&lines=I+am+a+GitHub+Noob.;I+am+always+up+for+challenges+;and+love+learning+new+things!)](https://git.io/typing-svg)
   
-## 🎧 More About Me
+## 👩🏻 More About Me
 
 
 
