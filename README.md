@@ -2,17 +2,21 @@
   
   <img src="https://i.pinimg.com/originals/8d/44/8f/8d448fb60b393f2ed3c8f4b789abb0e8.jpg" width="7000"/>
   <a href="https://www.linkedin.com/in/myla-talampas-45aaa0193">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="Follow me on LinkedIn"/>
   </a>
   <a href="https://web.facebook.com/myla.talampas">
-    <img src="https://img.shields.io/badge/Facebook-violet?style=for-the-badge&logo=Facebook&logoColor=white%22%20alt=%22Facebook%20Badge" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-violet?style=for-the-badge&logo=Facebook&logoColor=white%22%20alt=%22Facebook%20Badge" alt="Facebook Badge" title="Follow me on Facebook"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" title="Follow me on Twitter"/>
   </a>
-
-
-
+ <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge" title="Follow me on Reddit"/>
+  </a>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&pause=1000&color=F73BD3&width=650&height=80&lines=I+am+a+GitHub+Noob.;I+am+always+up+for+challenges+;and+love+learning+new+things!)](https://git.io/typing-svg)
+  
+  
   <div id="header" align="center">
 
   ### HI! YOU ARE VISITOR NUMBER
@@ -28,12 +32,9 @@
     
   <div id="header" align="center">
 
-  ### Hi! My name is Myla
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=35&pause=1000&color=F73BD3&center=true&vCenter=true&width=650&height=80&lines=And+I+am+a+GitHub+Noob.;I+am+always+up+for+challenges+;and+love+learning+new+things!)](https://git.io/typing-svg)
+
     
    
-    
     
     
   <details>
