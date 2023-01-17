@@ -1,6 +1,7 @@
 # Hi! I am Myla! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50"/>
   
-  <img src="https://i.pinimg.com/originals/91/4e/84/914e84b69d2e9527442671c00bda6335.jpg" height="300"/>
+   <img src="https://i.pinimg.com/originals/91/4e/84/914e84b69d2e9527442671c00bda6335.jpg"/>
+  
   <a href="https://www.linkedin.com/in/myla-talampas-45aaa0193">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="Follow me on LinkedIn"/>
   </a>
