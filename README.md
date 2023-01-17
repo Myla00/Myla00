@@ -7,10 +7,10 @@
   <a href="https://web.facebook.com/myla.talampas">
     <img src="https://img.shields.io/badge/Facebook-violet?style=for-the-badge&logo=Facebook&logoColor=white%22%20alt=%22Facebook%20Badge" alt="Facebook Badge" title="Follow me on Facebook"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/MylaTheBeat">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" title="Follow me on Twitter"/>
   </a>
- <a href="your-twitter-URL">
+ <a href="https://reddit.com/u/TheLostWander_er">
     <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge" title="Follow me on Reddit"/>
   </a>
       <a href="https://github.com/Myla00?tab=followers">
