@@ -22,7 +22,7 @@
 <br>
 Thank you for checking out my profile!
 
-I am Myla- a self-motivated individual that thrives on innovation and overcoming challenges, learning new skills and encouraging growth in those around me!
+I am Myla - a self-motivated individual that thrives on innovation and overcoming challenges, learning new skills and encouraging growth in those around me!
 
 I was born and raised in a quaint city in the Philippines called Santa Rosa. 
 I am an eligible civil service personnel as a profession, but I like to spend my free time creating graphic designs and contents for my friends.
