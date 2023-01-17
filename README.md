@@ -1,6 +1,6 @@
 # Hi! I am Myla! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50"/>
   
-   <img src="https://i.pinimg.com/originals/91/4e/84/914e84b69d2e9527442671c00bda6335.jpg"/>
+   <div> <img src="https://i.pinimg.com/originals/91/4e/84/914e84b69d2e9527442671c00bda6335.jpg"/> </div>
   
   <a href="https://www.linkedin.com/in/myla-talampas-45aaa0193">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="Follow me on LinkedIn"/>
@@ -16,10 +16,9 @@
   </a>
       <a href="https://github.com/Myla00?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Myla00?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  
+  <br><br>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&pause=1000&color=F73BD3&width=650&height=80&lines=I+am+a+GitHub+Noob.;I+am+always+up+for+challenges+;and+love+learning+new+things!)](https://git.io/typing-svg)
-<br>
 <br>
 Thank you for checking out my profile!
 
@@ -31,7 +30,7 @@ I am an eligible civil service personnel as a profession, but I like to spend my
   
   My strength includes decision making, attention to details, organization and my never ending thirst for improvement. I believe that commitment and passion are two factors that will help me succeed with my chosen craft.
   
- <br><br> 
+ <br>
   
 ## 🌏 On a More Personal Note!
 <details>
@@ -43,9 +42,24 @@ Whether you're reading on your phone or in bed, there's always something interes
 <br><br>
 </details>
 
+<details>
+    <summary><b>🛠️ Interests</b></summary><br/>
 
+  * Ancient Aliens <br>
+  * Religion 
+  * Conspiracy Theories
+  * Unsolved Mysteries<br><br>
+</details>
 
-<br><br>
+<details>
+    <summary><b>🛠️ Books</b></summary><br/>
+
+  * Zoya by Danielle Steel 
+  * I Want to Die Please Fix Me by Anna Mehler Paperny
+  * The Gifts of Imperfection by Brene Brown</details>
+
+<br>
+
 ## 🎧 Spotify Playing
 
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
