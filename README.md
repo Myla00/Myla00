@@ -18,6 +18,18 @@
   
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&pause=1000&color=F73BD3&width=650&height=80&lines=I+am+a+GitHub+Noob.;I+am+always+up+for+challenges+;and+love+learning+new+things!)](https://git.io/typing-svg)
+<br>
+<br>
+Thank you for checking out my profile!
+
+I am Myla- a self-motivated individual that thrives on innovation and overcoming challenges, learning new skills and encouraging growth in those around me!
+
+I was born and raised in a quaint city in the Philippines called Santa Rosa. 
+I am an eligible civil service personnel as a profession, but I like to spend my free time creating graphic designs and contents for my friends.
+As a starting freelance graphic designer, 
+  
+  My strength includes decision making, attention to details, organization and my never ending thirst for improvement. I believe that commitment and passion are two factors that will help me succeed with my chosen craft.
+  
   
 ## 👩🏻 On a More Personal Note!
 <details>
