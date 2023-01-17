@@ -51,7 +51,7 @@ Whether you're reading on your phone or in bed, there's always something interes
 [![Favorites](https://img.shields.io/badge/Favorite%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5Xrfg086oV4SgoMyfmYXfG)
 
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k7avih93kc4vf079074xwtubw&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=01fefa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k7avih93kc4vf079074xwtubw&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=01fefa&bar_color_cover=false)](https://open.spotify.com/user/k7avih93kc4vf079074xwtubw)	
   
   <br><br>
   
