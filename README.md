@@ -53,7 +53,7 @@ Whether you're reading on your phone or in bed, there's always something interes
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k7avih93kc4vf079074xwtubw&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=01fefa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
-  
+  <br><br>
   
 ## 🍀 Sponsors and Supporters
 
