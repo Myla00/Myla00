@@ -31,7 +31,7 @@ As a starting freelance graphic designer,
   My strength includes decision making, attention to details, organization and my never ending thirst for improvement. I believe that commitment and passion are two factors that will help me succeed with my chosen craft.
   
   
-## 👩🏻 On a More Personal Note!
+## 🌏 On a More Personal Note!
 <details>
     <summary><b>🛠️ Hobbies</b></summary><br/>
 Reading is my hobby, my escape into a wonderful world of fiction and imagination.
@@ -51,7 +51,9 @@ Whether you're reading on your phone or in bed, there's always something interes
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)  
   
   
+## 🍀 Sponsors and Supporters
 
+[![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mylaptalampas)
   
   
   
