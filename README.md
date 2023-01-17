@@ -26,10 +26,11 @@ I am Myla- a self-motivated individual that thrives on innovation and overcoming
 
 I was born and raised in a quaint city in the Philippines called Santa Rosa. 
 I am an eligible civil service personnel as a profession, but I like to spend my free time creating graphic designs and contents for my friends.
-As a starting freelance graphic designer, 
+
   
   My strength includes decision making, attention to details, organization and my never ending thirst for improvement. I believe that commitment and passion are two factors that will help me succeed with my chosen craft.
   
+ <br><br> 
   
 ## 🌏 On a More Personal Note!
 <details>
@@ -47,6 +48,7 @@ Whether you're reading on your phone or in bed, there's always something interes
 ## 🎧 Spotify Playing
 
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
+[![Favorites](https://img.shields.io/badge/Favorite%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5Xrfg086oV4SgoMyfmYXfG)
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)  
   
