@@ -37,7 +37,7 @@ I am an eligible civil service personnel as a profession, but I like to spend my
     <summary><b>⚡ Hobbies</b></summary><br/>
 Reading is my hobby, my escape into a wonderful world of fiction and imagination.
 <br><br>
-Reading is one of the greatest joys in life. It allows us to forget about our troubles for just a little while, and it can be done anywhere at any time.<br>
+Reading is one of the greatest joys in life. It allows us to forget about our troubles for just a little while, and it can be done anywhere at any time.<br><br>
 Whether you're reading on your phone or in bed, there's always something interesting happening around you: people talking, cars honking their horns outside your window—or maybe just your own thoughts floating through your head! Reading gives us access to great stories that we might otherwise never experience if we weren't able to read them ourselves (or watch movies based on them).
 <br>
 </details>
@@ -69,7 +69,7 @@ Whether you're reading on your phone or in bed, there's always something interes
   
   <br><br>
   
-## 🍀 Sponsors and Supporters
+## 📫 Sponsors and Supporters
 
 
 [![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mylaptalampas)
