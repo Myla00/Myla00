@@ -32,9 +32,9 @@ I am an eligible civil service personnel as a profession, but I like to spend my
   
  <br>
   
-## 🌏 On a More Personal Note!
+## 🤝 On a More Personal Note!
 <details>
-    <summary><b>🛠️ Hobbies</b></summary><br/>
+    <summary><b>⚡ Hobbies</b></summary><br/>
 Reading is my hobby, my escape into a wonderful world of fiction and imagination.
 <br><br>
 Reading is one of the greatest joys in life. It allows us to forget about our troubles for just a little while, and it can be done anywhere at any time.<br>
@@ -43,7 +43,7 @@ Whether you're reading on your phone or in bed, there's always something interes
 </details>
 
 <details>
-    <summary><b>🛠️ Interests</b></summary><br/>
+    <summary><b>⚡ Interests</b></summary><br/>
 
   * Ancient Aliens <br>
   * Religion 
@@ -52,7 +52,7 @@ Whether you're reading on your phone or in bed, there's always something interes
 </details>
 
 <details>
-    <summary><b>🛠️ Books</b></summary><br/>
+    <summary><b>⚡ Books</b></summary><br/>
 
   * Zoya by Danielle Steel 
   * I Want to Die Please Fix Me by Anna Mehler Paperny
