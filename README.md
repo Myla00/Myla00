@@ -45,8 +45,8 @@ Whether you're reading on your phone or in bed, there's always something interes
 <details>
     <summary><b>⚡ Interests</b></summary><br/>
   * <a href="https://www.history.com/shows/ancient-aliens"> Ancient Aliens </a> <br> 
-  * <a href="https://www.history.com/topics/inventions/nikola-tesla"> Nikola Tesla </a> 
-  * <a href= "https://www.youtube.com/watch?v=clMGAT50bqY"> Conspiracy Theories </a>
+  * <a href="https://www.history.com/topics/inventions/nikola-tesla"> Nikola Tesla </a> <br> 
+  * <a href= "https://www.youtube.com/watch?v=clMGAT50bqY"> Conspiracy Theories </a><br> 
   * <a href= "https://www.netflix.com/ph-en/title/81026055">Unsolved Mysteries </a><br><br>
 </details>
 
