@@ -39,11 +39,12 @@ Reading is my hobby, my escape into a wonderful world of fiction and imagination
 <br><br>
 Reading is one of the greatest joys in life. It allows us to forget about our troubles for just a little while, and it can be done anywhere at any time.<br><br>
 Whether you're reading on your phone or in bed, there's always something interesting happening around you: people talking, cars honking their horns outside your window—or maybe just your own thoughts floating through your head! Reading gives us access to great stories that we might otherwise never experience if we weren't able to read them ourselves (or watch movies based on them).
-<br>
+<br><br>
 </details>
 
 <details>
 <summary><b> ❤️ Interests</b></summary><br/>
+  
   * <a href="https://www.history.com/shows/ancient-aliens">Ancient Aliens </a> <br> 
   * <a href="https://www.history.com/topics/inventions/nikola-tesla">Nikola Tesla </a> <br> 
   * <a href= "https://www.youtube.com/watch?v=clMGAT50bqY">Conspiracy Theories </a><br> 
@@ -52,6 +53,7 @@ Whether you're reading on your phone or in bed, there's always something interes
 
 <details>
     <summary><b>🌱 Books</b></summary><br/>
+  
   * Zoya by Danielle Steel 
   * I Want to Die Please Fix Me by Anna Mehler Paperny
   * The Gifts of Imperfection by Brene Brown</details>
